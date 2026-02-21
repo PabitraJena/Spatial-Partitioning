@@ -3,7 +3,7 @@ This a Spatial partitioning optimization technique written in C using RayLib for
 
 Prequisites:
 - GCC Version: (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0 or above.
-- SDL2 Installed
+- RayLib Installed
 - Makefile should be tweaked according to the loaction of the RayLib libraries and binaries
   
 -My Config for WINNDOWS 11
