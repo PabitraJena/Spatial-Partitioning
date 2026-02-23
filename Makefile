@@ -1,4 +1,4 @@
-CC = clang
+CC = gcc
 
 INCLUDES = -I./include
 LIBDIR = -L./lib
@@ -13,3 +13,4 @@ $(TARGET): $(SRC)
 
 clean:
 	del $(TARGET)
+
