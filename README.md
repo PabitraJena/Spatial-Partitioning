@@ -7,6 +7,7 @@ Prequisites:
 - Makefile should be tweaked according to the loaction of the RayLib libraries and binaries
   
 -My Config for WINNDOWS 11
+```
 -Spatial partitioning/
  │
  ├── include/
@@ -14,6 +15,6 @@ Prequisites:
  ├── main.c
  ├── Makefile
  └── main.exe
-
+```
 NOTE!
 -The code is transferable to any other system with just tweaks to the makefile
